@@ -1,0 +1,43 @@
+
+#walrus-showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+#showHide {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#showHide {
+  text-decoration: underline;
+}
+
+img {
+  width: 50%;
+}
+
+#showPics{
+  display: none;
+}
+
+.showHide {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.showHide {
+  text-decoration: underline;
+}
+
+#secret {
+  display: none;
+}
